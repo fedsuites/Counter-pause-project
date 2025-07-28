@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.30;
 
-contract project1{
+contract Counter-pause{
     uint public count;
     bool public paused;
     address public owner;
